@@ -1,0 +1,39 @@
+{
+  "name": "node-rix",
+  "version": "1.0.0",
+  "description": "🚀 Matrix-style digital rain in your Node.js terminal - Because why should Hollywood have all the hacking fun? Perfect for startup demos, developer onboarding, or just feeling awesome while npm install runs.",
+  "main": "./bin/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./bin/app.js"
+  },
+  "bin": {
+    "node-rix": "./bin/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-Khiabani/Node-Rix.git"
+  },
+  "keywords": [
+    "matrix",
+    "terminal",
+    "cli",
+    "hacker",
+    "digital-rain",
+    "nodejs",
+    "animation",
+    "cyberpunk",
+    "fun",
+    "console",
+    "retro"
+  ],
+  "author": "Mohammad Khiabani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mohammad-Khiabani/Node-Rix/issues"
+  },
+  "homepage": "https://github.com/Mohammad-Khiabani/Node-Rix#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
