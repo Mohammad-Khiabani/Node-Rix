@@ -1,6 +1,6 @@
 {
   "name": "node-rix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🚀 Matrix-style digital rain in your Node.js terminal - Because why should Hollywood have all the hacking fun? Perfect for startup demos, developer onboarding, or just feeling awesome while npm install runs.",
   "main": "./bin/app.js",
   "type": "module",
