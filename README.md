@@ -30,6 +30,9 @@ npm start
 npm install -g node-rix
 node-rix
 ```
+### ❌ How to Exit?
+
+just press `ctrl + c`  to exit the application.
 
 ## 🧠 Usage
 Run the tool:
