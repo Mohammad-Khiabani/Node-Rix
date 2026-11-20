@@ -12,8 +12,9 @@
 - ساختار ماژولار و تمیز
 - وابستگی کم
 
-## 📦 نصب
+## 📦 راهنمای نصب و استفاده
 دو راه معمول برای نصب و اجرا وجود داره:
+> درحال حاضر پکیج Node-Rix روی NPM منتشر شده. میتونی با استفاده از کامند زیر اون رو به صورت global نصب کنی [![npm version](https://img.shields.io/npm/v/node-rix)](https://www.npmjs.com/package/node-rix)
 
 ### 1) نصب از گیت‌هاب (برای توسعه یا تست)
 ```bash
@@ -30,6 +31,7 @@ npm start
 npm install -g node-rix
 node-rix
 ```
+[مشاهده صفحه NPM](https://www.npmjs.com/package/node-rix)
 
 ## 🧠 اجرا
 ```bash
