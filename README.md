@@ -14,6 +14,7 @@ A lightweight tool for creators who want to make their visual/video content look
 
 ## 📦 Installation
 You can install and run Node-Rix in two common ways:
+> Node-Rix is published on NPM [![npm version](https://img.shields.io/npm/v/@mohammad-khiabani/get-hub)](https://www.npmjs.com/package/@mohammad-khiabani/get-hub)
 
 ### 1) Install from GitHub (development / testing)
 ```bash
@@ -30,6 +31,8 @@ npm start
 npm install -g node-rix
 node-rix
 ```
+[View Node-Rix on NPM](https://www.npmjs.com/package/node-rix)
+
 ### ❌ How to Exit?
 
 just press `ctrl + c`  to exit the application.
